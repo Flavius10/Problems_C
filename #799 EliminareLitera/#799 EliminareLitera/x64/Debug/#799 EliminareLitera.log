@@ -1,0 +1,3 @@
+﻿  #799 EliminareLitera.cpp
+C:\Folders\Informatica\C\(28,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  #799 EliminareLitera.vcxproj -> C:\Folders\Informatica\C\#799 EliminareLitera\x64\Debug\#799 EliminareLitera.exe

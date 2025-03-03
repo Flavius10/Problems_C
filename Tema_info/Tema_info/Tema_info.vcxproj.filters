@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="nivelepare.in" />
+    <None Include="nivelepare.out" />
+    <None Include="nivele11.in" />
+    <None Include="nivele11.out" />
+    <None Include="nrfii.in" />
+    <None Include="nrfii.out" />
+    <None Include="subarbore.in" />
+    <None Include="subarbore.out" />
+    <None Include="subarbori.in" />
+    <None Include="subarbori.out" />
+    <None Include="detdrum.in" />
+    <None Include="detdrum.out" />
+    <None Include="detdrum1.in" />
+    <None Include="detdrum1.out" />
+    <None Include="subarbore1.in" />
+    <None Include="subarbore1.out" />
+    <None Include="subarbore2.in" />
+    <None Include="subarbore2.out" />
+    <None Include="nivelebin.in" />
+    <None Include="nivelebin.out" />
+    <None Include="countprimsub.in" />
+    <None Include="countprimsub.out" />
+    <None Include="detdrum2.in" />
+    <None Include="detdrum2.out" />
+    <None Include="biarbore.in" />
+    <None Include="biarbore.out" />
+    <None Include="binefrunze1.in" />
+    <None Include="binefrunze1.out" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BiArbore.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

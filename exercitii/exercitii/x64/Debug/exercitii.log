@@ -1,0 +1,2 @@
+﻿  exercitii.cpp
+D:\Folders\Informatica\C\exercitii\exercitii\exercitii.cpp(11,1): error C4700: uninitialized local variable 's' used
